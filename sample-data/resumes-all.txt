@@ -1,0 +1,141 @@
+Priya Sharma
+priya.sharma@email.com | github.com/priyasharma | Bangalore
+
+Summary
+Backend engineer with 3 years of experience building data pipelines and APIs. Strong Python background with hands-on AWS production experience. Passionate about clean code and data quality.
+
+Experience
+
+Software Engineer — DataBridge Analytics (2022 – Present)
+- Built FastAPI-based REST APIs serving 2M+ requests/day, reduced p99 latency by 40%
+- Designed AWS Lambda + S3 ETL pipeline replacing a manual nightly process; cut runtime from 6 hours to 45 minutes
+- Wrote and optimised PostgreSQL queries including complex window functions for cohort analysis
+- Deployed ML inference endpoints using scikit-learn models; worked alongside data scientists
+
+Junior Engineer — Infosys (2021 – 2022)
+- Contributed to internal Django applications for HR automation
+- Wrote SQL reports in MySQL for operations dashboards
+
+Skills
+Python, FastAPI, Django, SQL, PostgreSQL, AWS (S3, Lambda, EC2, RDS), Git, Docker, scikit-learn, Pandas, NumPy
+
+Education
+B.Tech Computer Science — BITS Pilani (2021)
+
+Certifications
+AWS Certified Developer – Associate (2023)
+
+---
+
+Rahul Menon
+rahul.menon@gmail.com | LinkedIn: linkedin.com/in/rahulmenon | Pune
+
+Objective
+Experienced data engineer looking to apply distributed systems knowledge to backend product engineering.
+
+Work History
+
+Data Engineer — Flipkart (2020 – Present)
+- Built Apache Spark pipelines processing 500GB+ daily transaction data on AWS EMR
+- Maintained Redshift data warehouse; wrote optimised SQL for BI team consumption
+- Worked with Kafka for real-time event streaming; reduced data latency from 1 hour to 3 minutes
+- Mentored 2 junior engineers; led architecture review sessions
+
+Data Analyst — Mu Sigma (2018 – 2020)
+- Python scripting for data cleaning and transformation (Pandas, NumPy)
+- Built dashboards in Tableau for retail clients
+
+Technical Skills
+Python | SQL | Apache Spark | Kafka | AWS EMR | Redshift | S3 | Tableau | Git | Linux
+
+Education
+M.Sc. Statistics — IIT Madras (2018)
+
+---
+
+Aisha Kapoor
+aisha.k@outlook.com | Mumbai
+
+About Me
+I'm a frontend-focused developer making the shift to full-stack. I've been teaching myself Python and SQL over the past year and I'm eager to get into backend work. I learn very fast and am passionate about tech.
+
+Experience
+
+Frontend Developer — Creative Digital Agency (2021 – Present)
+- Built React and Vue.js interfaces for marketing clients
+- Some exposure to Node.js for BFF (backend for frontend) APIs
+- Used Git for version control
+
+Freelance Web Developer (2019 – 2021)
+- HTML, CSS, JavaScript websites for small businesses
+
+Skills
+JavaScript, React, Vue.js, HTML, CSS, Node.js, Git, basic Python, basic SQL
+
+Education
+BCA — Mumbai University (2019)
+
+Currently Learning
+Python (completed Udemy course), SQL fundamentals, AWS Cloud Practitioner (in progress)
+
+---
+
+Vikram Nair
+vikram.nair@techmail.com | Hyderabad | github.com/viknair
+
+Summary
+Senior software engineer with 6 years building distributed systems. Deep Python expertise, strong AWS background. Led teams of 4–6 engineers. Looking for a role with strong data engineering focus.
+
+Experience
+
+Senior Software Engineer — Razorpay (2021 – Present)
+- Architected microservices handling ₹10,000 Cr+ monthly payment volume in Python + FastAPI
+- Designed PostgreSQL schema and query layer for transaction reporting; optimised slow queries from 8s to 200ms
+- Built AWS infrastructure: EC2, RDS, Lambda, S3, CloudWatch; implemented IaC with Terraform
+- Introduced CI/CD pipeline with GitHub Actions, cut deployment time from 2 days to 30 minutes
+- Managed Docker + Kubernetes deployments on EKS
+
+Software Engineer — Freshworks (2018 – 2021)
+- Contributed to Django-based CRM backend serving 40,000 B2B customers
+- Wrote data migration scripts in Python handling 200M+ records
+- HuggingFace model integration for auto-tagging customer support tickets
+
+Skills
+Python, FastAPI, Django, PostgreSQL, AWS (EC2, RDS, S3, Lambda, EKS), Docker, Kubernetes, Terraform, Git, CI/CD, SQL, Redis, HuggingFace, scikit-learn
+
+Education
+B.Tech Computer Science — NIT Trichy (2018)
+
+---
+
+Sneha Iyer
+sneha.iyer@edu.in | Chennai
+
+Education
+Final year B.E. Computer Science — Anna University (graduating June 2025)
+CGPA: 8.9 / 10
+
+Internships
+
+Backend Engineering Intern — Zoho Corporation (Jan – Apr 2024)
+- Built a Python Flask API for internal leave management; used MySQL
+- Wrote SQL queries for reporting module
+- Basic AWS S3 integration for document storage
+
+Projects
+
+Student Result Prediction System (Final Year Project)
+- Python + scikit-learn model to predict academic performance
+- Used Pandas for data preprocessing, achieved 87% accuracy
+- Deployed on AWS EC2 (t2.micro)
+
+Expense Tracker Web App
+- Django backend, PostgreSQL, hosted on Heroku
+- REST API with JWT authentication
+
+Skills
+Python, Flask, Django, SQL, MySQL, PostgreSQL, AWS (S3, EC2 — basic), Git, scikit-learn, Pandas, HTML, C, Java
+
+Achievements
+- Smart India Hackathon 2023 — Regional Finalist
+- Completed HuggingFace NLP course (certificate)

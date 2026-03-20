@@ -1,0 +1,33 @@
+Software Engineer — Data & Backend
+TechCorp India | Bangalore (Hybrid) | Full-Time
+
+About the Role
+We're looking for a Software Engineer to join our Data Platform team. You'll build and maintain the pipelines, APIs, and tooling that power our analytics products used by 500+ enterprise clients.
+
+Responsibilities
+- Design and implement REST APIs using Python (FastAPI or Django)
+- Build and maintain ETL pipelines on AWS (S3, Lambda, Glue)
+- Write optimised SQL queries against PostgreSQL and Redshift
+- Collaborate with the ML team to deploy and monitor models
+- Participate in code reviews, write tests, maintain documentation
+- Debug production issues, contribute to on-call rotation
+
+Required Skills & Experience
+- 2–4 years of software engineering experience
+- Strong Python skills (data structures, async, OOP)
+- SQL proficiency — complex joins, window functions, query optimisation
+- Hands-on AWS experience (at least 2 of: EC2, S3, Lambda, RDS)
+- Familiarity with Git and CI/CD workflows
+- Computer Science degree or equivalent practical experience
+
+Nice to Have
+- Experience with Apache Spark or distributed data processing
+- Knowledge of machine learning frameworks (scikit-learn, PyTorch, HuggingFace)
+- Docker / Kubernetes experience
+- Contributions to open-source projects
+
+What We Offer
+- Competitive salary (₹18–28 LPA depending on experience)
+- Flexible hybrid schedule (3 days office, 2 days remote)
+- Learning budget of ₹50,000/year
+- Health insurance for employee + family
