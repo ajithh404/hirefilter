@@ -8,15 +8,15 @@ A hybrid resume screening system that combines rule-based keyword analysis with 
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                     React Frontend                       │
+│                     React Frontend                      │
 │  InputPanel  →  App.jsx  →  Leaderboard + CandidateCard │
 └─────────────────────┬───────────────────────────────────┘
                       │  POST /analyze  (JSON)
                       ▼
 ┌─────────────────────────────────────────────────────────┐
-│                   FastAPI Backend                        │
+│                   FastAPI Backend                       │
 │                                                         │
-│  main.py  →  parser.py  →  scorer.py  →  Groq API      │
+│  main.py  →  parser.py  →  scorer.py  →  Groq API       │
 │              (text prep)   (2-pass)    (Llama 3.3 70B)  │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -185,6 +185,7 @@ hirefilter/
 │   ├── scorer.py        # Two-pass scoring engine (rule-based + Groq LLM)
 │   ├── models.py        # Pydantic request/response schemas
 │   ├── requirements.txt
+|   ├── python-version
 │   └── .env.example
 └── frontend/
     ├── src/
